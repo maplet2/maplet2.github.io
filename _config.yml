@@ -4,7 +4,7 @@ email: mapletan22@gmail.com
 description: >
   A personal website showing various data science projects
 baseurl: "/about" # subpath of website
-url: "maple2.github.io"
+url: "maple2.github.io" # base hostname
 
 # Build settings
 markdown: kramdown
