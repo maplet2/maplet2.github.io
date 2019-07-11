@@ -1,3 +1,10 @@
+# Site Settings
+title: Maple Tan
+email: mapletan22@gmail.com
+description: >
+  A personal website showing various data science projects
+baseurl: "/about" # subpath of website
+url: "maple2.github.io"
 
 # Build settings
 markdown: kramdown
