@@ -1,6 +1,7 @@
 # Site Settings
 title: Personal Website
 email: mapletan22@gmail.com
+github_username: maplet2
 description: >-
   A personal website for Maple Tan that will showcase relevant data science projects along with other miscellanous projects I am currently working on.
 
@@ -8,3 +9,8 @@ description: >-
 markdown: kramdown
 theme: minima
 # theme: jekyll-theme-minimal
+gems: 
+  - jekyll-feed
+exclude: 
+  - Gemfile
+  - Gemfile.lock
