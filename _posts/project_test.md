@@ -1,5 +1,8 @@
 ---
 layout: post
 title:  "Project 1 Title"
-categories: jekyll update
+categories: project
+permalink: /neural/
 ---
+
+Words go here

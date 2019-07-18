@@ -1,0 +1,17 @@
+/*
+  Styles page for default
+
+*/
+
+body, button {
+  font-family: sans-serif;
+  font-size: 12pt;
+}
+
+#code {
+  display: none;
+}
+
+#text {
+  display: block;
+}
