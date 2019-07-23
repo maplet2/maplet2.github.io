@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 ## Exploratory Analysis of Large-Scale Electrode Neural Recording”
-<img align = "right" src="assets/test.jpg" alt="Project Preview 1" style = "width:250px;">  
+<img align = "right" src="assets/k-means.png" alt="Project Preview 1" style = "width:250px;">  
 
 An collaborative project that explores neural signal recored from repeated trials of lab rats watching a natural video. The signals are recorded using neural technologies such as Neuralpixels. Some topics we explore are: correlations between the signal and the region the signal originate from, low dimensional dynamics and the frequency patterns of the neural signals. 
  
@@ -32,17 +32,16 @@ Using the Fourier Transformation and the method of averaging, we find that we ca
 
 
 
-#### DMD
+#### Video Stream Separations
 <img src="assets/test.jpg" alt="Project Preview 1" style = "width:250px;" align = "right" >   
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed tempus urna et pharetra pharetra massa. Lectus nulla at volutpat diam. Urna porttitor rhoncus dolor purus non enim. Lacinia quis vel eros donec. Odio facilisis mauris sit amet massa vitae tortor. Sem integer vitae justo eget magna fermentum iaculis eu. Eleifend 
+Dynamic Mode Decomposition (DMD) allows one to separate a video into two different streams, a foreground stream and a background stream. Applying this technique on a variety of different videos, the goal is to explore what types of videos works best with this technique. 
 
 <br />
 <br />
 <br />
-<br />
 
-#### Neural Nets one
-<img src="assets/test.jpg" alt="Project Preview 1" style = "width:250px;" align = "right">  
+#### Dynamic Systems Replication
+<img src="assets/rho17a.png" alt="Project Preview 1" style = "width:250px;" align = "right">  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed tempus urna et pharetra pharetra massa. Lectus nulla at volutpat diam. Urna porttitor rhoncus dolor purus non enim. Lacinia quis vel eros donec. Odio facilisis mauris sit amet massa vitae tortor. Sem integer vitae justo eget magna fermentum iaculis eu. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Odio facilisis 
+Looking at a variety of different dynamical systems such as the Lorenz System, the Kuramoto-Sivishinky system and various diffusion reactions. Feeding these dynamical systems into a neural net, we will use neural nets to replicate the systems.
