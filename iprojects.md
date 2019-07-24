@@ -4,7 +4,7 @@ title: Data Science Projects
 permalink: /projects/
 ---
 
-## Exploratory Analysis of Large-Scale Electrode Neural Recording”
+## Exploratory Analysis of Large-Scale Electrode Neural Recording
 <img align = "right" src="assets/k-means.png" alt="Project Preview 1" style = "width:250px;">  
 
 An collaborative project that explores neural signal recored from repeated trials of lab rats watching a natural video. The signals are recorded using neural technologies such as Neuralpixels. Some topics we explore are: correlations between the signal and the region the signal originate from, low dimensional dynamics and the frequency patterns of the neural signals. 
@@ -19,9 +19,12 @@ Going more specifically into the the correlations between the neural signals and
 A project that attempts to classify taxi tip data into three distinct groups: "low", "medium" and "high". The data set is a subset of New York taxi trips from Kaggle and contains various features such as trip time, trip length, payment method, among other things. This data set will also be supplemented by weather data from the National Centers for Environmental Information. 
 
 The project explores which features have the largest impact on if a customer a customer gives a high tip. After exploring this, a classifier will be built that can determine if a trip will yield one of the three categories of tip. Experimenting with various different algorithms, the DecisionTree algorithm yielded the best  results, with an 92% accuracy. 
-<br />
 
-# Smaller Projects
+<br/>
+
+---
+
+## Smaller Projects
 
 #### Saving Fluffy the Dog
 <img src="assets/test.jpg" alt="Project Preview 1" style = "width:250px;" align = "right">   
@@ -30,13 +33,16 @@ Looking at theoretical ultrasound data of a marble swallowed by a dog, we find t
 
 Using the Fourier Transformation and the method of averaging, we find that we can filter out some of the noise in the frequency domain which will translate once we tranform out of it. Afterwards,we can track the trajectory of the marble.
 
-
+<br/>
 
 #### Video Stream Separations
 <img src="assets/test.jpg" alt="Project Preview 1" style = "width:250px;" align = "right" >   
 
 Dynamic Mode Decomposition (DMD) allows one to separate a video into two different streams, a foreground stream and a background stream. Applying this technique on a variety of different videos, the goal is to explore what types of videos works best with this technique. 
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
