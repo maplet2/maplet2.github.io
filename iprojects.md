@@ -7,7 +7,7 @@ permalink: /projects/
 ## Exploratory Analysis of Large-Scale Electrode Neural Recording
 <img align = "right" src="assets/k-means.png" alt="Project Preview 1" style = "width:250px;">  
 
-An collaborative project that explores neural signal recored from repeated trials of lab rats watching a natural video. The signals are recorded using neural technologies such as Neuralpixels. Some topics we explore are: correlations between the signal and the region the signal originate from, low dimensional dynamics and the frequency patterns of the neural signals. 
+A collaborative project that explores neural signal recorded from repeated trials of lab rats watching a natural video. The signals are recorded using neural technologies such as Neuralpixels. Some topics we explore are: correlations between the signal and the region the signal originate from, low dimensional dynamics and the frequency patterns of the neural signals. 
  
 Going more specifically into the the correlations between the neural signals and their originated region, two topics are explored. The first being the use of supervised and unsupervised machine learning techniques to classify the signals based on region. The goal is to see if the algorithms can determine a mapping that determine a mapping that correlates a signal's pattern and region. The second topic is to attempt to build a neural net using two different package that can recreate a signal based off the original visual stimulus. [note: update intro paragraph to reflect this second part]
 
