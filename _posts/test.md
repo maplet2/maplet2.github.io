@@ -1,5 +1,5 @@
 ---
-layout: small
+layout: post
 title: test page
 permalink: /testpage/
 ---
